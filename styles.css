@@ -1,0 +1,49 @@
+
+.background-color{
+    background-color: #FFF2D8;
+}
+
+.amna-img{
+    border-radius: 50%;
+    
+}
+
+.text-design{
+    font-family: cursive;
+    color: brown;
+
+}
+p{
+    color: #BCA37F;
+}
+h1{
+    color: brown;
+}
+
+.top-flower{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.bottom-flower{
+    position: absolute;
+    left: 500px;
+    bottom: 150px;
+}
+
+.background-color1{
+    background-color: #EAD7BB;
+}
+.parent{
+display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+.background-color2{
+    background-color: #BCA37F;
+}
